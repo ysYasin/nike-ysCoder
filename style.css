@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.ff-babas {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.nike-nav {
+    background: #FFF9F4;
+    z-index: 10;
+
+}
+
+.nike-sp-color {
+    color: #363958;
+}
+
+.nike-react {
+    color: #FA804C
+}
+
+.thambneil-head {
+    font-size: 5em;
+    color: #fff;
+}
+
+.nike-btn-c {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+
+}
+
+.bg-banner {
+    background: #FFF9F4;
+}
+
+
+
+.chaya {
+    z-index: 1;
+    background: #000000c1;
+}
+
+@media only screen and (max-width:688px) {
+    .thambneil-head {
+        font-size: 2em;
+        color: #000
+    }
+}
+
+@media only screen and(min-width:689px) and (max-width:992px) {
+    .thambneil-head {
+        font-size: 1em;
+        color: #000
+    }
+}
