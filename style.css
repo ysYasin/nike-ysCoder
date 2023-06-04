@@ -15,7 +15,7 @@
 }
 
 .nike-react {
-    color: #FA804C
+    color: #FA804C !important;
 }
 
 .thambneil-head {
@@ -51,4 +51,8 @@
         font-size: 1em;
         color: #000
     }
+}
+
+.roted-juta {
+    transform: rotate(59deg);
 }
